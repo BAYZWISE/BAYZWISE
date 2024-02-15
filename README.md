@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming and Crypto currency
 - 🌱 I’m currently learning coding and Blockchain implementation
 - 💞️ I’m looking to collaborate with organization or individual to experience great things together
-- 📫 How to reach me Google search BAYZWISE
+- 📫 How to reach me(bayzwixe@gmail.com) 
 
 <!---
 BAYZWISE/BAYZWISE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
